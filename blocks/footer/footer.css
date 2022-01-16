@@ -1,0 +1,15 @@
+
+
+@media screen and (min-width: 1280px) {
+  .footer {
+    width: 1184px;
+    display: flex;
+    margin: 0 auto 24px;
+    padding: 0;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+} 

@@ -1,0 +1,15 @@
+.place__title {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .place__title {
+    width: 460px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    align-self: end;
+  }
+
+} 

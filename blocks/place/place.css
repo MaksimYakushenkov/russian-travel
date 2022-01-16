@@ -1,0 +1,16 @@
+
+
+@media screen and (min-width: 1280px) {
+  .place {
+    display: grid;
+    column-gap: 40px;
+    row-gap: 48px;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(2, auto);
+    width: 984px;
+  }
+
+  .place:nth-child(even) {
+    margin: 80px 0;
+  }
+} 

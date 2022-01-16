@@ -1,0 +1,16 @@
+.header__lang-link {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: right;
+text-decoration-line: none;
+color: #FFFFFF;
+}
+
+.header__lang-link:nth-child(even) {
+  margin-left: auto;
+  text-decoration-line: underline;
+  margin-right: 18px;
+}
