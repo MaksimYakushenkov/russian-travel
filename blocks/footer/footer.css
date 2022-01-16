@@ -11,5 +11,17 @@
     justify-content: space-between;
     flex-wrap: wrap;
   }
+}
 
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .footer {
+    width: 928px;
+    display: flex;
+    margin: 0 auto 24px;
+    padding: 0;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
 } 

@@ -16,3 +16,16 @@
   }
 
 } 
+
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .cover__title {
+    width: 560px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;    
+    text-align: center;
+    color: #FFFFFF;
+    margin: 195px auto 32px;
+    z-index: 1;
+  }
+} 

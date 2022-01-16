@@ -12,5 +12,15 @@
     color: #FFFFFF;
     z-index: 1;
   }
+}
 
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .cover__subtitle {
+    width: 360px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 1;
+  }
 } 

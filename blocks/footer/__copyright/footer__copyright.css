@@ -8,7 +8,13 @@
     font-size: 14px;
     line-height: 16px;
     margin-left: auto;
-
   }
+}
 
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: auto;
+  }
 } 

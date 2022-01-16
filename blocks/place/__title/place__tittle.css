@@ -12,4 +12,14 @@
     align-self: end;
   }
 
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px){
+  .place__title {
+    width: 440px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    align-self: end;
+  }
 } 
