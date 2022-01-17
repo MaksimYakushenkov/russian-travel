@@ -1,6 +1,9 @@
 .cover__subtitle {
   margin: 0;
   padding: 0;
+  text-align: center;
+  color: #FFFFFF;
+  z-index: 1;
 }
 
 @media screen and (min-width: 1280px) {
@@ -8,9 +11,6 @@
     width: 360px;
     font-size: 18px;
     line-height: 22px;
-    text-align: center;
-    color: #FFFFFF;
-    z-index: 1;
   }
 }
 
@@ -19,8 +19,21 @@
     width: 360px;
     font-size: 18px;
     line-height: 22px;
-    text-align: center;
-    color: #FFFFFF;
-    z-index: 1;
   }
-} 
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+  .cover__subtitle {
+    width: 360px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .cover__subtitle {
+    width: 288px;
+    font-size: 14px;
+    line-height: 114%;
+  }
+}

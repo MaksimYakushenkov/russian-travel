@@ -25,4 +25,29 @@
   .place__paragraph:nth-child(2) {
     margin-top: 27px;
   } 
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+  .place__paragraph {
+    width: 352px;
+    font-size: 16px;
+    line-height: 163%;
+  }
+
+  .place__paragraph:nth-child(2) {
+    margin-top: 25px;
+  } 
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .place__paragraph {
+    width: 288px;
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0 auto;
+  }
+
+  .place__paragraph:nth-child(2) {
+    margin-top: 25px;
+  } 
 } 
