@@ -16,6 +16,6 @@
 * БЭМ и др.
 
 **Ссылка на GitHub Pages**
-* Здесь можно посмотреть весь проект "вживую" -> [Ссылка на GitHub Pages](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fmaksimyakushenkov.github.io%2Frussian-travel%2F)
+* Здесь можно посмотреть весь проект "вживую" -> [Ссылка на GitHub Pages](https://maksimyakushenkov.github.io/russian-travel/)
 
 Всем спасибо!

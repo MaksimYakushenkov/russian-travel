@@ -1,6 +1,11 @@
 .website__link {
   text-decoration-line: underline;
-  color: #FFFFFF;
+  color: #fff;
   font-size: 18px;
   line-height: 22px;
+  transition: opacity .2s linear;
+}
+
+.website__link:hover {
+  opacity: 0.5;
 }
